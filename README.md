@@ -6,8 +6,9 @@ Sample create-react-app to demo metadata views using box-ui-elements.
 In the file [App.js](https://github.com/manishPh/demo-box-metadata-views/blob/master/src/App.js), please update account specific details like `rootFolderID`, `token`, `mdQuery`, and `metadataColumnsToShow`.
 ## Available Scripts
 
-In the project directory, to install and setup local dev server, you can do:
-`yarn install` and `yarn start`
+In the project directory, to install, setup local dev server, and to build:
+- `yarn install` &
+- `yarn start`
 
 ## Box Metadata Query API
 
