@@ -2,7 +2,7 @@
 
 Sample create-react-app to demo metadata views using box-ui-elements.
 
-## Update Account Details
+## [!important] Update Account Details
 In the file [App.js](https://github.com/manishPh/demo-box-metadata-views/blob/master/src/App.js), please update account specific details like `rootFolderID`, `token`, `mdQuery`, and `metadataColumnsToShow`.
 ## Available Scripts
 
